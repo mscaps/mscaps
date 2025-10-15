@@ -1,6 +1,6 @@
 <!-- mscaps - GitHub Profile README -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#E20074;">Mukundhan Selvaraj (mscaps)</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#E20074;">Mukundhan Selvaraj</span></h1>
 
 <p align="center">
   <strong>Senior Software Engineer • Distributed Systems • Cloud & Backend Architecture</strong>
@@ -58,9 +58,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukundhan-selvaraj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mukundhan-selvaraj-8ba0025/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:mukundhan.selvaraj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-  <a href="https://tmobile-bill-analyzer.streamlit.app"><img src="https://img.shields.io/badge/Live_App-Streamlit-E20074?style=flat&logo=streamlit&logoColor=white"></a>
 </p>
 
 ---
