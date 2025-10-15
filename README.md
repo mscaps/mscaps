@@ -45,6 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscaps&layout=compact&theme=radical" height="160" />
 </p>
 
+<p align="center">
+ <p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mscaps&theme=radical)](https://git.io/streak-stats)</p>
+ <p>![Metrics](https://metrics.lecoq.io/mscaps?template=classic&base.community=0&languages=1&isocalendar=1&languages.limit=8&config.timezone=America/Chicago)</p>
+</p>
+
 ---
 
 ### ☁️ Cloud & DevOps Philosophy
