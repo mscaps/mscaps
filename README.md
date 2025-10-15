@@ -82,5 +82,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mscaps&style=flat-square&color=E20074" alt="Profile views" />
   <br/>
-  <sub>✨ Last updated automatically — see workflow below ✨</sub>
+  <sub>✨ Last updated automatically — October 15, 2025 ✨</sub>
 </p>
